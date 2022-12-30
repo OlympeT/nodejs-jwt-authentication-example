@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mquery": ">=3.2.3",
     "yargs-parser": ">=13.1.2",
     "lodash": ">=4.17.19",
